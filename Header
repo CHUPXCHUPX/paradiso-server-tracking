@@ -1,0 +1,14 @@
+HTTP/1.1  200 OK
+P3p: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Content-Type: text/html; charset="UTF-8"
+Keep-Alive: timeout=20
+Cache-Control: no-store
+X-Content-Type-Options: nosniff
+Set-Cookie: id=;expires=Thu, 01-Jan-1970 00:00:01 GMT;path=/
+Content-Security-Policy: base-uri 'self';  connect-src ws: wss: *; default-src 'self' 'unsafe-eval' data: blob: https://*.synology.com https://www.synology.cn/; font-src 'self' data: https://*.googleapis.com https://*.gstatic.com; form-action 'self'; frame-ancestors 'self' https://gofile.me http://gofile.me; frame-src 'self' data: blob: https://*.synology.com https://www.synology.cn/ http://*.synology.com http://*.synology.cn; img-src 'self' data: blob: https://*.google.com https://*.googleapis.com http://*.googlecode.com https://*.gstatic.com; media-src 'self' data: about:;  script-src 'self' 'unsafe-eval' data: blob: https://*.synology.com https://www.synology.cn/ https://*.google.com https://*.googleapis.com; style-src 'self' 'unsafe-inline' https://*.googleapis.com;
+Server: nginx
+Date: Thu, 06 Jan 2022 22:49:00 GMT
+Connection: keep-alive
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+X-Xss-Protection: 1; mode=block
